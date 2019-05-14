@@ -1,0 +1,19 @@
+<package>
+	<id>com.dpkg.colormysb</id>
+	<name>ColorMySB</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>It should work on here idk</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
