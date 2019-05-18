@@ -1,0 +1,34 @@
+Package: com.dpkg.colormysb
+Version: 0.9~beta3-2
+Architecture: iphoneos-arm
+Maintainer: dpkg_
+Installed-Size: 296
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.dpkg.colormysb_0.9~beta3-2_iphoneos-arm.deb
+Size: 15826
+MD5sum: 10dc172f4a1f3981d50f23b1cb92171d
+SHA1: b6abe8ab4728a60a180c60ee11756b3b1c76b820
+SHA256: a2ccf8af8867993cfb42671c9d04980bd98c3f31313222bca7bf61761f8d7497
+Section: Tweaks
+Description: Liven up your modern StatusBar!
+Author: dpkg_
+Name: ColorMySB
+Depiction: https://thenightmancodeth.github.io/repo/depictions/?p=com.dpkg.colormysb
+
+Package: com.ioscreatix.rooster
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.ioscreatix.rooster_1.0.0-1+debug_iphoneos-arm.deb
+Size: 5096
+MD5sum: 062dd6ce8a5a52483f2b199548ba2bc0
+SHA1: ae7f5632425dc97aab1311a1fcbcf9d181cd7a4c
+SHA256: a85efbd19082b9b416b0f7cf25febbd72cc72dd7969976fbae1d81102446051d
+Section: Tweaks
+Description: Disable an Application's Notifications with a 3D Touch Shortcut Action
+Author: iOS Creatix
+Name: Rooster
+Depiction: https://thenightmancodeth.github.io/repo/depictions/?p=com.ioscreatix.rooster
+
